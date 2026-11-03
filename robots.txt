@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshp-zigs.github.io/unified-enterprise-platforms-us-industries/sitemap.xml
