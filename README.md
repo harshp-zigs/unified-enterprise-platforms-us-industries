@@ -14,7 +14,7 @@
 
 Across US industries, organizations are consolidating separate applications into connected platforms, so that finance, operations, customers, and compliance draw on one trusted set of information. The goal is not fewer tools for their own sake. It is faster decisions, fewer manual handoffs, and less time spent reconciling numbers that disagree.
 
-Most organizations do not get there by replacing everything at once. They get there through careful, staged [Enterprise System Modernization Services USA](https://zignuts.com/REPLACE-WITH-SERVICE-PAGE?utm_source=seo_web2.0&utm_medium=backlink&utm_campaign=seo_referral&utm_id=10) that retire the oldest dependencies first and connect what remains.
+Most organizations do not get there by replacing everything at once. They get there through careful, staged [Enterprise System Modernization Services USA](https://zignuts.com?utm_source=seo_web2.0&utm_medium=backlink&utm_campaign=seo_referral&utm_id=11) that retire the oldest dependencies first and connect what remains.
 
 This memo explains what is driving the shift, how it looks in eight sectors, and the decisions leaders face before they start.
 
